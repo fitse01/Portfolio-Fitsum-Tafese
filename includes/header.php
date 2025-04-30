@@ -5,8 +5,8 @@ if (session_status() === PHP_SESSION_NONE) {
 }
 
 // Default values if not set
-$pageTitle = $pageTitle ?? 'John Doe | Web Developer';
-$metaDescription = $metaDescription ?? 'Portfolio website of John Doe, a full-stack web developer.';
+$pageTitle = $pageTitle ?? 'Fitsum Tafese | Web Developer';
+$metaDescription = $metaDescription ?? 'Portfolio website of Fitsum Tafese, a full-stack web developer.';
 
 // Get current page for active menu highlighting
 $currentPage = basename($_SERVER['PHP_SELF']);

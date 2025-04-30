@@ -10,8 +10,8 @@ $featuredProjects = getFeaturedProjects(3);
 $latestPosts = getLatestPosts(3);
 
 // Page title and meta description
-$pageTitle = "John Doe | Web Developer";
-$metaDescription = "Portfolio website of John Doe, a full-stack web developer specializing in HTML, CSS, JavaScript, and PHP.";
+$pageTitle = "Fitsum Tafese | Web Developer";
+$metaDescription = "Portfolio website of Fitsum Tafese, a full-stack web developer specializing in HTML, CSS, JavaScript, and PHP.";
 
 // Include header
 include 'includes/header.php';
@@ -21,7 +21,7 @@ include 'includes/header.php';
 <section class="hero">
     <div class="container">
         <div class="hero-content">
-            <h1 class="animate-on-load">Hi, I'm <span>John Doe</span></h1>
+            <h1 class="animate-on-load">Hi, I'm <span>Fitsum Tafese</span></h1>
             <h2 class="animate-on-load delay-1">Full-Stack Web Developer</h2>
             <p class="animate-on-load delay-2">I build responsive, user-friendly websites and web applications with clean code and modern technologies.</p>
             <div class="hero-buttons animate-on-load delay-3">
@@ -30,7 +30,7 @@ include 'includes/header.php';
             </div>
         </div>
         <div class="hero-image animate-on-load">
-            <img src="assets/images/hero-image.png" alt="John Doe - Web Developer">
+            <img src="assets/images/hero-image.png" alt="Fitsum Tafese - Web Developer">
         </div>
     </div>
 </section>

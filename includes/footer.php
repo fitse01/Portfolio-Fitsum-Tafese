@@ -33,7 +33,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; <?php echo date('Y'); ?> John Doe. All Rights Reserved.</p>
+                <p>&copy; <?php echo date('Y'); ?> Fitsum Tafese. All Rights Reserved.</p>
             </div>
         </div>
     </footer>
